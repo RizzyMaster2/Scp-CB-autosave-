@@ -14,6 +14,8 @@ A lightweight .exe tool that simulates F5 keypresses at regular intervals to aut
 
 🧪 Designed with SCP:CB but supports any game that binds saving to F5
 
+Reuires Python 3+ and Scp: CB https://scpcbgame.com/
+
 🚀 How to Use
 Run SCP_AutoSave.exe
 
